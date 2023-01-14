@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/15_GPIO_Kernel/gpio_k.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/piuser/Desktop/Examples/15_GPIO_Kernel/gpio_k.ko /home/piuser/Desktop/Examples/15_GPIO_Kernel/gpio_k.o /home/piuser/Desktop/Examples/15_GPIO_Kernel/gpio_k.mod.o;  true

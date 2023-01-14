@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/06_Timer/Timer.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/piuser/Desktop/Examples/06_Timer/Timer.ko /home/piuser/Desktop/Examples/06_Timer/Timer.o /home/piuser/Desktop/Examples/06_Timer/Timer.mod.o;  true

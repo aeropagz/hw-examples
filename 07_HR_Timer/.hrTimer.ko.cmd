@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/07_HR_Timer/hrTimer.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/piuser/Desktop/Examples/07_HR_Timer/hrTimer.ko /home/piuser/Desktop/Examples/07_HR_Timer/hrTimer.o /home/piuser/Desktop/Examples/07_HR_Timer/hrTimer.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/12_Tranceiver/Transceiver/modules.order := {   echo /home/piuser/Desktop/Examples/12_Tranceiver/Transceiver/transceiver.ko; :; } | awk '!x[$$0]++' - > /home/piuser/Desktop/Examples/12_Tranceiver/Transceiver/modules.order

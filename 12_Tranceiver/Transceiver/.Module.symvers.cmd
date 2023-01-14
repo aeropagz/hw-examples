@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/12_Tranceiver/Transceiver/Module.symvers := sed 's/\.ko$$/\.o/' /home/piuser/Desktop/Examples/12_Tranceiver/Transceiver/modules.order | scripts/mod/modpost -m -a  -o /home/piuser/Desktop/Examples/12_Tranceiver/Transceiver/Module.symvers -e -i Module.symvers   -T -

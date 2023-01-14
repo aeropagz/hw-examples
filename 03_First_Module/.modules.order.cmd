@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/03_First_Module/modules.order := {   echo /home/piuser/Desktop/Examples/03_First_Module/TestMod1.ko; :; } | awk '!x[$$0]++' - > /home/piuser/Desktop/Examples/03_First_Module/modules.order

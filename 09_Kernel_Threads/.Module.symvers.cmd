@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/09_Kernel_Threads/Module.symvers := sed 's/\.ko$$/\.o/' /home/piuser/Desktop/Examples/09_Kernel_Threads/modules.order | scripts/mod/modpost -m -a  -o /home/piuser/Desktop/Examples/09_Kernel_Threads/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/05_Frequenzmessung/intCounter.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/piuser/Desktop/Examples/05_Frequenzmessung/intCounter.ko /home/piuser/Desktop/Examples/05_Frequenzmessung/intCounter.o /home/piuser/Desktop/Examples/05_Frequenzmessung/intCounter.mod.o;  true

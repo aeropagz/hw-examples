@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/09_Kernel_Threads/kthread.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/piuser/Desktop/Examples/09_Kernel_Threads/kthread.ko /home/piuser/Desktop/Examples/09_Kernel_Threads/kthread.o /home/piuser/Desktop/Examples/09_Kernel_Threads/kthread.mod.o;  true

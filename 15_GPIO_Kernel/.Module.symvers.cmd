@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/15_GPIO_Kernel/Module.symvers := sed 's/\.ko$$/\.o/' /home/piuser/Desktop/Examples/15_GPIO_Kernel/modules.order | scripts/mod/modpost -m -a  -o /home/piuser/Desktop/Examples/15_GPIO_Kernel/Module.symvers -e -i Module.symvers   -T -

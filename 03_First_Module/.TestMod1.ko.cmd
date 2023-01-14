@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/03_First_Module/TestMod1.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/piuser/Desktop/Examples/03_First_Module/TestMod1.ko /home/piuser/Desktop/Examples/03_First_Module/TestMod1.o /home/piuser/Desktop/Examples/03_First_Module/TestMod1.mod.o;  true

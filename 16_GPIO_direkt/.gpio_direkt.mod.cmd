@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/16_GPIO_direkt/gpio_direkt.mod := { echo  /home/piuser/Desktop/Examples/16_GPIO_direkt/gpio_direkt.o;  echo; } > /home/piuser/Desktop/Examples/16_GPIO_direkt/gpio_direkt.mod

@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/07_HR_Timer/Module.symvers := sed 's/\.ko$$/\.o/' /home/piuser/Desktop/Examples/07_HR_Timer/modules.order | scripts/mod/modpost -m -a  -o /home/piuser/Desktop/Examples/07_HR_Timer/Module.symvers -e -i Module.symvers   -T -

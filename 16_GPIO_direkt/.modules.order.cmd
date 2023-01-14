@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/16_GPIO_direkt/modules.order := {   echo /home/piuser/Desktop/Examples/16_GPIO_direkt/gpio_direkt.ko; :; } | awk '!x[$$0]++' - > /home/piuser/Desktop/Examples/16_GPIO_direkt/modules.order

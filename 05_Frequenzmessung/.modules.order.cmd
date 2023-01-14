@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/05_Frequenzmessung/modules.order := {   echo /home/piuser/Desktop/Examples/05_Frequenzmessung/intCounter.ko; :; } | awk '!x[$$0]++' - > /home/piuser/Desktop/Examples/05_Frequenzmessung/modules.order

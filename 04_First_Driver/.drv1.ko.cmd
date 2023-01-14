@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/04_First_Driver/drv1.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/piuser/Desktop/Examples/04_First_Driver/drv1.ko /home/piuser/Desktop/Examples/04_First_Driver/drv1.o /home/piuser/Desktop/Examples/04_First_Driver/drv1.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/12_Tranceiver/Transceiver/transceiver.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/piuser/Desktop/Examples/12_Tranceiver/Transceiver/transceiver.ko /home/piuser/Desktop/Examples/12_Tranceiver/Transceiver/transceiver.o /home/piuser/Desktop/Examples/12_Tranceiver/Transceiver/transceiver.mod.o;  true

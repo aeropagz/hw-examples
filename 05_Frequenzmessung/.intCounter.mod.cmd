@@ -1,0 +1,1 @@
+cmd_/home/piuser/Desktop/Examples/05_Frequenzmessung/intCounter.mod := { echo  /home/piuser/Desktop/Examples/05_Frequenzmessung/intCounter.o;  echo; } > /home/piuser/Desktop/Examples/05_Frequenzmessung/intCounter.mod
